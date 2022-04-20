@@ -1,0 +1,9 @@
+# dependencies
+/node_modules
+
+# production
+/out
+
+# static images
+/public/attachments/*
+/public/avatars/*

@@ -1,0 +1,9 @@
+{
+    "window.title": "Server",
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#01323C",
+        "titleBar.activeBackground": "#000000",
+        "titleBar.activeForeground": "#F3FDFF",
+        "titleBar.inactiveBackground": "#0a0a0a"
+    }
+}
